@@ -1,3 +1,4 @@
+<img width="1440" alt="Screen Shot 2021-08-23 at 7 36 42 PM" src="https://user-images.githubusercontent.com/86452366/130547074-aee19856-3a8f-44ac-9c66-9ad0d759b534.png">
 # Password_generator
 This repo is for week 3 assignment pertaining to the javascript we have learned in class. 
 
